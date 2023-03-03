@@ -1,2 +1,3 @@
 this is test:
-this is line test for integration
+this is line test for staging	
+>>>>>>> integration
